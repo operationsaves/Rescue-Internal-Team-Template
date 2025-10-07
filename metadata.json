@@ -1,0 +1,7 @@
+{
+  "name": "Rescue Internal Team App TEMPLATE",
+  "description": "A centralized application for the Operation Saves animal rescue to manage events, appointments, applications, resources and more for the internal team.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
